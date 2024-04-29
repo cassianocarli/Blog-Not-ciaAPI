@@ -1,0 +1,29 @@
+.header-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.noticia {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.thumbnail {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
+
+.content {
+    padding: 20px;
+    background-color: #f8f9fa; 
+}
